@@ -1,3 +1,3 @@
-print("Hellow World")
+print("Hellow")
 print("TEst")
 print("123")
